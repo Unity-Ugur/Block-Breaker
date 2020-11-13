@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="27248ca5-0f7f-4278-bf6d-4b9098be86b1" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/scripts/GameStatus.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/B6AF2972-6520-4645-BCA9-E23CD09C1187/8d/2fe8803c/AudioSource.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/scripts/Level.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/scripts/Paddle.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/7FD725A4-3FFC-4FF4-B0EC-9D44C5DED682/6e/8e9fb937/Transform.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/scripts/Ball.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/99258562-0D64-4271-98DD-F3A0E1467733/08/eae236f9/String.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/7FD725A4-3FFC-4FF4-B0EC-9D44C5DED682/58/ccdb4ca8/Component.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/7FD725A4-3FFC-4FF4-B0EC-9D44C5DED682/17/fee118b0/Mathf.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Scenes/screenLoader.cs" />
+        <option value="$PROJECT_DIR$/Assets/scripts/LoseCollider.cs" />
+        <option value="$PROJECT_DIR$/Assets/scripts/screenLoader.cs" />
+        <option value="$PROJECT_DIR$/Assets/scripts/Block.cs" />
+        <option value="$PROJECT_DIR$/Assets/scripts/GameStatus.cs" />
+        <option value="$PROJECT_DIR$/Assets/scripts/Paddle.cs" />
+        <option value="$PROJECT_DIR$/Assets/scripts/Level.cs" />
+        <option value="$PROJECT_DIR$/Assets/scripts/Ball.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1iJmt5jhQuPLmMBRHle1PEVOPU4" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.C#" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="27248ca5-0f7f-4278-bf6d-4b9098be86b1" name="Default Changelist" comment="" />
+      <created>1601634282190</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601634282190</updated>
+      <workItem from="1601634287810" duration="1548000" />
+      <workItem from="1601887515550" duration="5986000" />
+      <workItem from="1602185459930" duration="820000" />
+      <workItem from="1602245889401" duration="34489000" />
+      <workItem from="1603204747580" duration="2599000" />
+      <workItem from="1603888859676" duration="856000" />
+      <workItem from="1604047480939" duration="793000" />
+      <workItem from="1604411231291" duration="2681000" />
+      <workItem from="1604568983199" duration="2603000" />
+      <workItem from="1605291237708" duration="115000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="743" y="279" width="424" height="493" key="FileChooserDialogImpl" timestamp="1605291344136">
+      <screen x="0" y="27" width="1920" height="988" />
+    </state>
+    <state x="743" y="279" width="424" height="493" key="FileChooserDialogImpl/0.27.1920.988@0.27.1920.988" timestamp="1605291344136" />
+    <state x="449" y="156" width="1022" height="739" key="SettingsEditor" timestamp="1602599779712">
+      <screen x="0" y="27" width="1920" height="988" />
+    </state>
+    <state x="449" y="156" width="1022" height="739" key="SettingsEditor/3840.0.1920.1080/1920.0.1920.1080/0.27.1920.988@0.27.1920.988" timestamp="1602599779712" />
+    <state x="595" y="260" width="729" height="522" key="find.popup" timestamp="1604659929702">
+      <screen x="0" y="27" width="1920" height="988" />
+    </state>
+    <state x="595" y="260" width="729" height="522" key="find.popup/0.27.1920.988@0.27.1920.988" timestamp="1604659929702" />
+    <state x="624" y="235" key="run.anything.popup" timestamp="1602509364351">
+      <screen x="0" y="27" width="1920" height="988" />
+    </state>
+    <state x="624" y="235" key="run.anything.popup/3840.0.1920.1080/1920.0.1920.1080/0.27.1920.988@0.27.1920.988" timestamp="1602509364351" />
+    <state x="623" y="243" width="672" height="678" key="search.everywhere.popup" timestamp="1602508691354">
+      <screen x="0" y="27" width="1920" height="988" />
+    </state>
+    <state x="623" y="243" width="672" height="678" key="search.everywhere.popup/3840.0.1920.1080/1920.0.1920.1080/0.27.1920.988@0.27.1920.988" timestamp="1602508691354" />
+  </component>
+</project>
